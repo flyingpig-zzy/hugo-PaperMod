@@ -149,8 +149,8 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
 
 /* 行文风格 */
 body {
-    font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir, "Nimbus Sans L", Roboto, Noto, "Segoe UI", Arial, Helvetica, "Helvetica Neue", sans-serif;
-    font-size: 1.1rem;
+    /* font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir, "Nimbus Sans L", Roboto, Noto, "Segoe UI", Arial, Helvetica, "Helvetica Neue", sans-serif; */
+    /* font-size: 1.1rem; */
     line-height: 1.5;
     margin: 0;
 }
@@ -178,7 +178,7 @@ body {
     margin: 0.5rem 0;
 }
 
-.post-content h1,
+/* .post-content h1,
 .post-content h2,
 .post-content h3,
 .post-content h4,
@@ -186,9 +186,9 @@ body {
 .post-content h6 {
     margin-bottom: 1.15rem;
     font-weight: 600;
-}
+} */
 
-.post-content h1 {
+/* .post-content h1 {
     font-size: 2.6rem;
     margin-top: 4rem;
     border-bottom: 1px solid #ccc;
@@ -198,9 +198,9 @@ body {
     font-size: 1.8rem;
     margin-top: 4rem;
     border-bottom: 1px solid #ccc;
-}
+} */
 
-.post-content h3 {
+/* .post-content h3 {
     font-size: 1.6rem;
     margin-top: 2rem;
 }
@@ -218,7 +218,7 @@ body {
 .post-content h6 {
     font-size: 1rem;
     margin-top: 1rem;
-}
+} */
 
 /* GitHub 样式的表格 */
 .post-content table tr {
