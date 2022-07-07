@@ -11,7 +11,7 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
 }
 
 .toc {
-    margin: 0 2px 40px 2px;
+    margin: 0 2px 15px 2px;
     border: 1px solid var(--border);
     background: var(--entry);
     border-radius: var(--radius);
