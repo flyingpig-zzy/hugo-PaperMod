@@ -78,8 +78,8 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
 }
 
 .toc li ul {
-    margin-inline-start: calc(var(--gap) * 0.5);
-    list-style-type: none;
+    /* margin-inline-start: calc(var(--gap) * 0.5); */
+    /* list-style-type: none; */
 }
 
 .toc li {
