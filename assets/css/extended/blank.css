@@ -188,7 +188,7 @@ body {
     font-weight: 600;
 }
 
- .post-content h1 {
+.post-content h1 {
     font-size: 2.6rem;
     margin-top: 4rem;
     border-bottom: 1px solid #ccc;
@@ -198,9 +198,9 @@ body {
     font-size: 1.8rem;
     margin-top: 4rem;
     border-bottom: 1px solid #ccc;
-} 
+}
 
- .post-content h3 {
+.post-content h3 {
     font-size: 1.6rem;
     margin-top: 2rem;
 }
@@ -218,7 +218,7 @@ body {
 .post-content h6 {
     font-size: 1rem;
     margin-top: 1rem;
-} 
+}
 
 /* GitHub 样式的表格 */
 .post-content table tr {
@@ -236,4 +236,17 @@ body {
 
 .post-content table td {
     border: 1px solid #979da3 !important;
+}
+
+
+
+
+
+.post-entry:hover {
+    transition: transform 0.5s;
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    transform: scale(1.03) translateZ(0) translate3d(0, 0, 0) rotate(0.01deg);
 }
